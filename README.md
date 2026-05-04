@@ -9,6 +9,9 @@ A Nature-Law-Based Intelligence Model for Sustainable Civilization
 **Published:** 2025
 
 ---
+## Summary
+
+Artificial Wisdom (AW) is a next-generation intelligence model based on natural laws and holistic system balance, designed to ensure the long-term sustainability of human civilization.
 
 # Abstract
 
