@@ -3,7 +3,7 @@
 ## A Nature-Law-Based Intelligence Model for Sustainable Civilization
 
 **Author:** Master (inchacomisho / inchacomusho)
-**Collaborative AIs:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)
+**Collaborative AIs:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)
 **Published:** 2025
 
 ---
