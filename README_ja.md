@@ -495,3 +495,13 @@ https://note.com/inchacomusho/n/n26ce8a1f7632
 
 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
 https://note.com/inchacomusho/n/n499530f6a055あ
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
